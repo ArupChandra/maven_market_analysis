@@ -8,7 +8,7 @@ This project provides an in-depth analysis of Maven Market's performance across 
 
 ### Data Source
 
-Classic Models Data : The datasets used for this analysis is in "Maven Markat Data" folder consisting of different 'csv' files, containing detailed information about each sales, customers, returns etc.
+The datasets used for this analysis is in "Maven Markat Data" folder consisting of different 'csv' files, containing detailed information about each sales, customers, returns etc.
 
 ### Tools
 
